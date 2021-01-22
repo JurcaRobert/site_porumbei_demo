@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cub>h1 {
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+}
+
+.img {
+    position: relative;
+    margin-left: 45%;
+}
